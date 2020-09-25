@@ -2,6 +2,12 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 09월 25일
+>1. foodILike에 이미지 추가
+>2. 콘솔에서 map()함수 실습
+>3. img 엘리먼트에 alt 속성 추가하기
+
+
 ## 09월 18일
 >1. 컴포넌트가 무엇인지 알아보고 JSX를 학습.
 >2. JSX는 단지 HTML과 자바스크립트를 조합한 문법이다.
