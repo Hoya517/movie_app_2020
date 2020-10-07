@@ -2,6 +2,17 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 10월 7일
+>1. prop-types를 이용한 평점 매기기
+>2. .isRequired는 props가 필수가 아니라면 붙이지 않아도 된다.
+>3. state로 숫자 증감 기능 만들기
+>4. 클래스형 컴포넌트를 만들때는 React.Component를 상속 받는다.
+>5. 클래스형 컴포넌트는 render()함수가 JSX를 반환한다.
+>6. state를 사용하려면 반드시 클래스형 컴포넌트 안에서, 소문자를 이용하여 state 라고 적는다.
+>7. state는 직접 변경하는 코드를 작성하면 안된다.
+>8. setState() 함수를 이용해 state의 데이터를 업데이트한다.
+
+
 ## 09월 25일
 >1. foodILike에 이미지 추가
 >2. 콘솔에서 map()함수 실습
