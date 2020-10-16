@@ -2,6 +2,23 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 10월 16일
+>1. constructor()함수는 props인자와 super(props) 키워드를 사용한다.
+>2. componentDidMount(): 컴포넌트가 처음 화면에 그려지면 실행되는 함수
+>3. Life Cycle: constructor() -> render() -> componentDidMount()
+>4. componentDidUpdate(): 화면 업데이트시 실행되는 함수
+>5. Life Cycle: setState() -> render() -> componentDidUpdate()
+>6. componentWillUnmount(): 컴포넌트가 화면에서 떠날 때 실행되는 함수(컴포넌트가 죽을때, 언마운트)
+>7. 데이터 로딩 상태 표시하기
+>8. 로딩 현상 구현하기 => setTimeout((), 6000);
+>9. 영화 데이터는 배열에 담는다.
+>10. 영화 API 사용해 보기(axios 도구 사용)
+>11. axios.get('URL') 함수 이용해서 API 호출
+>12. getMovies() 메서드 만들기 => axios.get()함수는 componentDidMount()에서 실행된다.
+>13. 데이터를 받아오는 axios.get()을 실행하려면 시간이 필요하고, 그 사실을 자바스크립트에 알려야 함 => async, await 키워드 사용
+
+
+
 ## 10월 7일
 >1. prop-types를 이용한 평점 매기기
 >2. .isRequired는 props가 필수가 아니라면 붙이지 않아도 된다.
