@@ -2,7 +2,7 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
-## 10월 16일
+## 10월 30일
 >1. 객체 key값으로 영화 데이터 가져오기
 >2. 키와 대입할 변수의 이름이 같으면 축약할 수 있다.
 >3. isLoading state true에서 false로 로딩 상태 변경하기
