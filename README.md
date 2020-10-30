@@ -3,6 +3,18 @@
 React Js Fundamentals Course 2020
 
 ## 10월 16일
+>1. 객체 key값으로 영화 데이터 가져오기
+>2. 키와 대입할 변수의 이름이 같으면 축약할 수 있다.
+>3. isLoading state true에서 false로 로딩 상태 변경하기
+>4. Movie 컴포넌트 만들기 (함수형)
+>5. Movie.propTypes 작성하기
+>6. 영화 데이터 평점순으로 내림차순으로 정렬
+>7. App 컴포넌트에서 Movie 컴포넌트 그리기 (map()함수 이용)
+>8. Movie 컴포넌트에 props 전달하기 (console에서 확인)
+>9. key props 추가 (경고 메시지 없애기)
+
+
+## 10월 16일
 >1. constructor()함수는 props인자와 super(props) 키워드를 사용한다.
 >2. componentDidMount(): 컴포넌트가 처음 화면에 그려지면 실행되는 함수
 >3. Life Cycle: constructor() -> render() -> componentDidMount()
