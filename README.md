@@ -2,6 +2,21 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 11월 6일
+>1. App 컴포넌트에 HTML 추가(<session>, <div>, <span> 등)
+>2. Movie 컴포넌트에 HTML 추가(data, year, summary 속성 추가)
+    warning => 리액트에서는 class가 아닌 className 속성을 사용해야 함.
+>3. 영화 포스터 이미지 추가 (<img> 태그 사용)
+>4. Movie 컴포넌트에서 id 속성은 필요없으니 지움
+>5. Movie.css와 App.css 생성
+>6. Movie 컴포넌트에 genres props 넘겨주기
+    warning => genres는 필수인데 undefined라서 에러
+>7. App 컴포넌트 수정(genres props 값 넘겨줌)
+>8. class를 className으로 수정
+>9. genres 속성 출력 (map함수, <ul>, <li>)
+    warning => key props 추가하지 않아서
+>10. <li>에 key props 추가
+
 ## 10월 30일
 >1. 객체 key값으로 영화 데이터 가져오기
 >2. 키와 대입할 변수의 이름이 같으면 축약할 수 있다.
