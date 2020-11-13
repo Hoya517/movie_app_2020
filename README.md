@@ -2,6 +2,13 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 11월 13일
+>1. 장르 출력하기 (genres 속성추가)
+>2. App.css와 Movie.css로 카드모양으로 출력하기
+>4. 시놉시스 180자로 제한하기 (summary.slice(0, 180) 이용)
+>5. title 수정 (이름 Movie App)
+>6. 라우터 이용해서 네이게이션 만들기
+
 ## 11월 6일
 >1. App 컴포넌트에 HTML 추가(<session>, <div>, <span> 등)
 >2. Movie 컴포넌트에 HTML 추가(data, year, summary 속성 추가)
