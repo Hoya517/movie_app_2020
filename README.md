@@ -3,7 +3,10 @@
 React Js Fundamentals Course 2020
 
 ## 11월 20일
->1. 
+>1. 링크와 라우터 이용해서 ~/movie-detail로 이동하기
+>2. 상세페이지 만들기(Detail.js)
+>3. url에서 직접 연결하면 홈페이지로 리다이렉트
+>4. git에서 배포하기
 
 
 ## 11월 13일
