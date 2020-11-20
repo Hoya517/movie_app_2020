@@ -2,6 +2,10 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 11월 20일
+>1. 
+
+
 ## 11월 13일
 >1. 장르 출력하기 (genres 속성추가)
 >2. App.css와 Movie.css로 카드모양으로 출력하기
