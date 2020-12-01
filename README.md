@@ -2,6 +2,12 @@
 ## Movie_app_2020
 React Js Fundamentals Course 2020
 
+## 12월 1일
+>1. 애플리케이션(투두리스트)
+>2. 리스트와 Key
+>3. React로 생각하기(5단계)
+>4. 조건부 렌더링
+
 ## 11월 27일
 >1. CDN링크 설정하기 - crossorigin을 사용, CORS규정을 따름
 >2. 간단한 컴포넌트
